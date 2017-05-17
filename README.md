@@ -13,5 +13,5 @@ Install Google's python-weather-api (https://code.google.com/archive/p/python-we
 
 Install the interfacing code from The Raspberry PI Guy
 
-`<git clone https://github.com/the-raspberry-pi-guy/lcd>`
+`git clone https://github.com/the-raspberry-pi-guy/lcd`
 
