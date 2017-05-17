@@ -1,13 +1,13 @@
-## Raspberry-Pi-LCD-Weather-Grabber
+# Raspberry-Pi-LCD-Weather-Grabber
 Grabs the Weather for your current location using Google's python-weather-api
 
-# Meant for a 16x2 LCD for Raspberry Pi
+### Meant for a 16x2 LCD for Raspberry Pi
 
-# More Information on the LCD Drivers used here:
+### More Information on the LCD Drivers used here:
 
 https://www.youtube.com/watch?v=fR5XhHYzUK0
 
-### Installation:
+## Installation:
 
 Install Google's python-weather-api (https://code.google.com/archive/p/python-weather-api/)
 
