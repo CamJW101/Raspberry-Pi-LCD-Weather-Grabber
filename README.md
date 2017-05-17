@@ -1,5 +1,5 @@
 # Raspberry-Pi-LCD-Weather-Grabber
-Grabs the Weather for your current location using Google's python-weather-api
+Grabs the Weather for your current location using Google's python-weather-api and Displays it on a 16x2 LCD screen.
 
 ### Meant for a 16x2 LCD for Raspberry Pi
 
